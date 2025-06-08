@@ -6,9 +6,9 @@ This repository contains a series of projects completed for a Computer Architect
 
 ```plaintext
 ComputerArchitecture/
-├── ProjectPart1/     # Basic logic gates, adders, multiplexers
-├── part2/            # ALU, register file, basic datapath modules
-├── ProjectPart3/     # Complete processor (SISC) and control logic
+├── Phase1/     # Basic logic gates, adders, multiplexers
+├── Phase2/            # ALU, register file, basic datapath modules
+├── Phase3/     # Complete processor (SISC) and control logic
 ```
 
 ---
